@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="artek-user-accounts",
-    version="2.1.0",
+    version="2.1.1",
     author="DarkArtek",
     author_email="luca@ahd-creative.com",
     description="a Django user account app",
     license="MIT",
     packages=find_packages(),
-    url="https://github.com/AHDCreative/dj_user_accounts",
+    url="https://github.com/AHDCreative/django_user_accounts",
     install_requires=[
         "Django>=1.11",
         "django-appconf>=1.0.1",
