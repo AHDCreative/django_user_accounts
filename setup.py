@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="artek-user-accounts",
-    version="2.1.1",
+    version="2.1.2",
     author="DarkArtek",
     author_email="luca@ahd-creative.com",
     description="a Django user account app",
